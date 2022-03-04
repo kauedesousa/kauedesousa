@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Agricultural Scientist working as Associate Professor on Data-Driven Agriculture at the [Inland Norway University](https://www.inn.no/english/) and Associate Scientist at the System Transformation Group at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org). In our group we perform multidisciplinary research incorporating methods from environmental, social, geographical and computer sciences to define transformation strategies in food systems in the Global South. 
+I am an Agricultural Scientist working as Associate Professor on Data-Driven Agriculture at the [Inland Norway University](https://www.inn.no/english/) and Associate Scientist for the System Transformation Group at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org). In our group we perform multidisciplinary research incorporating methods from environmental, social, geographical and computer sciences to define transformation strategies in food systems in the Global South. I am commited to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desousakaue?style=social)](https://twitter.com/desousakaue)
 
