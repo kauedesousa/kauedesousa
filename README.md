@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-I am an Agricultural Scientist working as Scientist for the Digital Inclusion Lever at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org) and Associate Professor on Data-Driven Agriculture at the [Inland Norway University](https://www.inn.no/english/). I have broad experience in systems design, crop ecology and data science working in Agr4Dev projects in Latin America, Asia and Africa. Currently, I lead the [1000FARMS](https://1000farms.net) Course an innitiative to build capacity among African NARs and CGIAR in getting insights from high quality decentralised on-farm data supported by the [tricot approach](https://hdl.handle.net/10568/109942). I am commited to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
+I am an Agricultural Scientist working as Scientist for the Digital Inclusion Lever at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org) and Associate Professor on Data-Driven Agriculture at the [Inland Norway University](https://www.inn.no/english/). I have broad experience in systems design, crop ecology and data science working in Agr4Dev projects in Latin America, Asia and Africa. Currently, I coordinate the [1000FARMS](https://1000farms.net), an initiative funded by the Bill & Melinda Gates Foundation to build capacity in the agricultural national programs in Africa on decentralized experimental agriculture, data science, digital inclusion and participatory plant breeding. I also collaborate in a series of CGIAR initiatives and projects in Africa and Latin America on issues related to digital inclusion, climate adaptation, systems diversification, crop improvement and data science. I am commited to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
+
+### Want to work with me?
+
+Send me an email if you are interested in my work and want some mentorship. We have access to plenty of data from on-farm trials around the world and little time (and staff) to work in all the research questions that we have. Innitially, I can't promise any other support more than our time, data and expertise. However, financial support can be discussed once a research question or any other work matches the goals of our funders. Here some questions that I can highlight.
+
+- Impact of climate variability on groundnut varieties in Tanzania
+- Curation of on-farm trial data in Africa, Latin America and Asia
+- Farmers adoption to new varieties of African vegetables in Benin and Mali
+- Seasonal climate variability and its impacts on sweetpotato varieties in Ghana
+- Drivers of farmers variety adoption decisions based on variety traits assessed on-farm
+- The theory of change in plant breeding teams in Africa, from higher internal validity to higher external validity 
+- On-farm trial protocols to better capture heterogenous management practices in farmer fields
+- And more...
 
 <p align="left">
 <a href="https://twitter.com/desousakaue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kauê de sousa's twitter handle is desousakaue" height="30" width="40" /></a>
