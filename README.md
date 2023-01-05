@@ -2,7 +2,7 @@
 
 I am an Agricultural Scientist working as Scientist for the Digital Inclusion Lever at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org) and Associate Professor on Data-Driven Agriculture at the [Inland Norway University](https://www.inn.no/english/). I have broad experience in systems design, crop ecology and data science working in Agr4Dev projects in Latin America, Asia and Africa. Currently, I coordinate the [1000FARMS](https://1000farms.net) Course, an initiative funded by the Bill & Melinda Gates Foundation to build capacity in the agricultural national programs in Africa on decentralized experimental agriculture, data science, digital inclusion and participatory plant breeding. I also collaborate in a series of CGIAR initiatives and projects in Africa and Latin America on issues related to digital inclusion, climate adaptation, systems diversification, crop improvement and data science. I am commited to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
 
-### Want to work with me?
+### Want to do your research with me?
 
 Send me an email if you are interested in my work and want some mentorship. We have access to plenty of data from on-farm trials around the world and little time (and staff) to work in all the research questions that we have. Innitially, I can't promise any other support more than our time, data and expertise. However, financial support can be discussed once a research question or any other work matches the goals of our projects. Here some topic/questions that I can highlight.
 
