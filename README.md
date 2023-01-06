@@ -14,6 +14,7 @@ Send me an email if you are interested in my work and want some mentorship. We h
 - User-centred target product profiles (TPP) in plant breeding using citizen science data 
 - On-farm trial protocols to better capture heterogenous management practices in farmer fields
 - Agroclimatic thresholds on crop physiological stages  
+- Better ways to provide feedback to participants in citizen science experiments
 - And more...
 
 <br/><br/>
