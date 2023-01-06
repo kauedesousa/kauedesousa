@@ -4,15 +4,16 @@ I am an Agricultural Scientist working as Scientist for the Digital Inclusion Le
 
 ### Want to do your research with me?
 
-Send me an email if you are interested in my work and want some mentorship. We have access to plenty of data from on-farm trials around the world. Innitially, I can't promise any other support more than our time, data and expertise. However, financial support or consultantship can be discussed once a research question or any other work matches the goals of our projects. Here some topic/questions that I can highlight.
+Send me an email if you are interested in my work and want some mentorship. We have access to plenty of data from on-farm trials around the world. Innitially, we can provide in-kind support (our time, data and expertise). However, scholarships or consultantships can be discussed once a research question or any other work matches the goals of our projects. Here some topic/questions that I can highlight.
 
-- Impact of climate variability on groundnut varieties in Tanzania
+- Impact of climate variability on crop variety performance (i.e. groundnut in Tanzania, sweetpotato in Ghana, sorghum in Tanzania and Nigeria, beans in Tanzania, cowpea in Nigeria, etc.)
 - Curation of on-farm trial data in Africa, Latin America and Asia
 - Farmers adoption to new varieties of African vegetables in Benin and Mali
-- Seasonal climate variability and its impacts on sweetpotato varieties in Ghana
 - Drivers of farmers variety adoption decisions based on variety traits assessed on-farm
 - The theory of change in plant breeding teams in Africa, from higher internal validity to higher external validity 
+- User-centred target product profiles (TPP) in plant breeding using citizen science data 
 - On-farm trial protocols to better capture heterogenous management practices in farmer fields
+- Agroclimatic thresholds on crop physiological stages  
 - And more...
 
 <p align="left">
