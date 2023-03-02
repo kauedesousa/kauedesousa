@@ -26,5 +26,8 @@ Send me an email (k dot desousa at cgiar dot org) if you are interested in my wo
 <a href="https://orcid.org/0000-0002-7571-7845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Kaue-De-Sousa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kauedesousa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="http://lattes.cnpq.br/0127048096715282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/abstract.svg" alt="" height="30" width="40" /></a>
 </p>
+
+
 
