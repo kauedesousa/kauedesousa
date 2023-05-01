@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Agricultural Scientist working as Scientist II, Data-driven Agriculture at [The Alliance of Bioversity and CIAT](https://alliancebioversityciat.org) and Associate Professor on Experimental Agriculture at the [Inland Norway University](https://www.inn.no/english/). I have broad experience in systems design, crop ecology and data science working in agriculture for development projects in Latin America, Asia and Africa. I also collaborate in several CGIAR initiatives and projects in Africa and Latin America on food systems issues related to digital inclusion, climate adaptation, systems transformation and crop improvement. I am committed to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
+I am an Agricultural Scientist working as Scientist II, Data-driven Agriculture at The Alliance of Bioversity and CIAT. I have broad experience in systems design, crop ecology and data science working in agriculture for development projects in Latin America, Asia and Africa. I also collaborate in several CGIAR initiatives and projects in Africa and Latin America on food systems issues related to digital inclusion, climate adaptation, systems transformation and crop improvement. I am committed to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
 
 ### Want to do your research with me?
 
@@ -21,7 +21,6 @@ Send me an email (k dot desousa at cgiar dot org) if you are interested in my wo
 
 <p align="left">
 <a href="mailto:k.desousa@cgiar.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/desousakaue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kauê de sousa's twitter handle is desousakaue" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=GO3gOJx27gYC&hl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-7571-7845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Kaue-De-Sousa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="" height="30" width="40" /></a>
