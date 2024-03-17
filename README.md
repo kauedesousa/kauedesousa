@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Agricultural Scientist working as Scientist II, Data-driven Agriculture at The Alliance of Bioversity and CIAT. With over a decade of experience in international agricultural research, I have published more than 25 peer-reviewed papers covering topics such as farm innovation and experimentation, data efficiency, data integration, software development, agriculture and food interface, agrobiodiversity, climate change adaptation, and social development research. I am committed to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci).
+I am an Agricultural Scientist working as Scientist II, Data-driven Agriculture at The Alliance of Bioversity and CIAT. With over a decade of experience in international agricultural research, I have contributed to several topics to enable food systems transformation such as farm innovation and experimentation, data efficiency, data integration, software development, agriculture and food interface, agrobiodiversity, climate change adaptation, and social development studies. I am committed to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci). 
 
 ### Want to do your research with me?
 
