@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-I am an Agricultural Scientist with over a decade of experience in international agricultural research. I have contributed to several topics to enable food systems transformation such as farm innovation and experimentation, data efficiency, data integration, software development, agriculture and food interface, agrobiodiversity, climate change adaptation, and social development studies. I am committed to open-source data (and workflows) and most of my code is published in our Team Page on [GitHub](https://github.com/AgrDataSci). 
-
-### Want to do your research with me?
-
-Send me an email if you are interested in my work and want some mentorship. We have access to plenty of data from on-farm trials around the world. Innitially, we can provide in-kind support (our time, data and expertise). However, scholarships or consultantships can be discussed once a research question or any other work matches the goals of our projects. Here some topic/questions that I can highlight.
-
-- Impact of climate variability on crop variety performance (i.e. groundnut in Tanzania, sweetpotato in Ghana, sorghum in Tanzania and Nigeria, beans in Tanzania, cowpea in Nigeria, etc.)
-- On-farm performance of NUS crops and implications on farmer crop variety adoption and seed systems 
-- Trait prioritization and implications on crop variety adoption
-- Disentangling crop variety target product profiles (TPP) using citizen science data 
-- Agroclimatic thresholds on crop physiological stages  
-- Better ways to provide feedback to participants in citizen science experiments
-- And more...
+I am an applied ecologist and agricultural researcher whose work bridges ecological science, digital innovation, and participatory methods to support sustainable food systems and climate resilience in biodiverse regions. I have a background in forestry (UFAM, Brazil), MSc in tropical agroforestry (CATIE, Costa Rica), and a PhD in applied ecology and biotechnology (INN, Norway), with a consistent focus on integrating data-driven tools with local knowledge systems to address environmental and agricultural challenges. Over the past decade, my work has concentrated on agrobiodiversity and climate adaptation in smallholder farming systems across Latin America, Africa, and Asia. I am commitment to farmer-centered innovation and sustainable development, working at the intersection of science, technology, and policy to transform how knowledge is created and used in agriculture. I actively supports open science, and most of my code and workflows are publicly available on my team’s [GitHub page](https://github.com/AgrDataSci). I am fluent in English, Spanish, and Portuguese.
 
 <br/><br/>
 
